@@ -1,0 +1,26 @@
+.outerbox{
+    border: dotted 2px rgb(9, 10, 9);
+    padding: 30px;
+    width: 50%;
+    margin:10%;
+    margin-left: 15%;
+    outline: 15px  rgb(3, 3, 3);
+    background-color: aqua;
+    
+
+}
+.innerbox{
+    border: solid 1px goldenrod;
+    padding:20px;
+    margin: 5%;
+    color: rgb(49, 30, 6);
+    background-color: #d1e7e7;
+  
+}
+.paragraph-container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-size:xx-large;
+    font-style: italic;
+    text-align: center;
+}
